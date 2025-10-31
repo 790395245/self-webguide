@@ -1,0 +1,146 @@
+[
+  {
+    "id": "external-apps",
+    "apps": [
+      {
+        "name": "WP博客",
+        "url": "https://blog.rz15.cn",
+        "icon": "img/Wordpress_A.png",
+        "alt": "WP博客"
+      },
+      {
+        "name": "兰空图床",
+        "url": "https://lsky.rz15.cn",
+        "icon": "https://lsky.rz15.cn/favicon.ico",
+        "alt": "兰空图床"
+      },
+      {
+        "name": "VP博客",
+        "url": "https://ruo.ge",
+        "icon": "img/vue.png",
+        "alt": "VP博客"
+      },
+      {
+        "name": "域名监控",
+        "url": "https://domain.ruoruo.icu",
+        "icon": "https://cdn.jsdelivr.net/gh/Siriling/my-icons@main/dist/icon/AirConnect.png",
+        "alt": "域名监控"
+      },
+      {
+        "name": "LobeChat AI",
+        "url": "https://ai.rz15.cn",
+        "icon": "img/lobe.png",
+        "alt": "LobeChat AI"
+      },
+      {
+        "name": "Dify AI",
+        "url": "https://minio-ui.rz15.cn/",
+        "icon": "img/dify.png",
+        "alt": "Dify AI"
+      },
+      {
+        "name": "有声书",
+        "url": "http://book.rz15.cn",
+        "icon": "img/Audiobookshelf.png",
+        "alt": "有声书"
+      },
+      {
+        "name": "照片",
+        "url": "https://dsm2.rz15.cn/?launchApp=SYNO.Foto.AppInstance",
+        "icon": "img/png/Photos.png",
+        "alt": "照片"
+      },
+      {
+        "name": "SakuraFrp",
+        "url": "https://frp.rz15.cn/",
+        "icon": "img/sakura.png",
+        "alt": "SakuraFrp"
+      },
+      {
+        "name": "PhpMyAdmin",
+        "url": "https://www.rz15.cn/phpmyadmin/",
+        "icon": "img/MySQL_C.png",
+        "alt": "PhpMyAdmin"
+      },
+      {
+        "name": "HomeAssistant",
+        "url": "http://hass.rz15.cn",
+        "icon": "img/HomeAssistant_B.png",
+        "alt": "HomeAssistant"
+      },
+      {
+        "name": "Qbit",
+        "url": "http://qb.rz15.cn",
+        "icon": "img/qBittorrent_A.png",
+        "alt": "Qbit"
+      },
+      {
+        "name": "Transmission",
+        "url": "http://tr.rz15.cn",
+        "icon": "img/Transmission_B.png",
+        "alt": "Transmission"
+      },
+      {
+        "name": "DSM3617",
+        "url": "https://dsm2.rz15.cn",
+        "icon": "img/DSM7.png",
+        "alt": "DSM3617"
+      },
+      {
+        "name": "OpenWrt",
+        "url": "http://op1.rz15.cn",
+        "icon": "img/OpenWRT_D.png",
+        "alt": "OpenWrt"
+      },
+      {
+        "name": "Server IPMI",
+        "url": "http://ipmi.rz15.cn/index.html",
+        "icon": "img/server.png",
+        "alt": "Server IPMI"
+      },
+      {
+        "name": "Movie Pilot",
+        "url": "https://mp.rz15.cn",
+        "icon": "img/mp.png",
+        "alt": "Movie Pilot"
+      },
+      {
+        "name": "DSM Chat",
+        "url": "https://dsm2.rz15.cn/?launchApp=SYNO.SDS.Chat.Application",
+        "icon": "img/WeChat.png",
+        "alt": "DSM Chat",
+        "style": "border-radius: 22px;"
+      }
+    ]
+  },
+  {
+    "id": "internal-apps",
+    "apps": [
+      {
+        "name": "Emby Server",
+        "url": "https://10.88.88.23:8096",
+        "icon": "https://cdn.jsdelivr.net/gh/Siriling/my-icons@main/dist/icon/Emby_B.png",
+        "alt": "Emby Server"
+      },
+      {
+        "name": "DSM3617",
+        "url": "https://10.88.88.49:5001",
+        "icon": "img/DSM7.png",
+        "alt": "DSM3617"
+      },
+      {
+        "name": "OpenWrt",
+        "url": "http://10.88.88.254",
+        "icon": "img/OpenWRT_D.png",
+        "alt": "OpenWrt"
+      },
+      {
+        "name": "DSM Chat",
+        "url": "https://10.88.88.49:5001/?launchApp=SYNO.SDS.Chat.Application",
+        "icon": "img/WeChat.png",
+        "alt": "DSM Chat",
+        "style": "border-radius: 22px;"
+      }
+    ]
+  }
+]
